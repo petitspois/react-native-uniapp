@@ -1,0 +1,2 @@
+com/reactnativeuni/BuildConfig.java
+ com.reactnativeuni.BuildConfig

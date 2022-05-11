@@ -1,0 +1,4 @@
+/Users/lanku-77/www/yoov-work-app/node_modules/react-native-uni/android/src/main/java/com/reactnativeuni/UniPackage.kt
+/Users/lanku-77/www/yoov-work-app/node_modules/react-native-uni/android/src/main/java/com/reactnativeuni/UniModule.kt
+/Users/lanku-77/www/yoov-work-app/node_modules/react-native-uni/android/src/main/java/com/reactnativeuni/Event.kt
+/Users/lanku-77/www/yoov-work-app/node_modules/react-native-uni/android/src/main/java/com/reactnativeuni/UniSplashView.kt
