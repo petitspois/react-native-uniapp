@@ -55,7 +55,7 @@ rejecter:(RCTPromiseRejectBlock)reject)
   DCUniMPConfiguration *configuration = [[DCUniMPConfiguration alloc] init];
   NSString *appid = arg[@"appid"];
   configuration.enableGestureClose = true;  //开启侧滑手势关闭小程序
-  configuration.enableBackground = true;  //关闭后台运行
+  configuration.enableBackground = false;  //关闭后台运行
   configuration.showAnimated = true;
   configuration.openMode = DCUniMPOpenModePush;  // 使用push方式打开小程序
   configuration.path = arg[@"path"];

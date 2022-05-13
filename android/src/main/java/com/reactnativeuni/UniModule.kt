@@ -99,7 +99,7 @@ class UniModule(private val reactContext: ReactApplicationContext) : ReactContex
         .setMenuDefFontColor(fontColor)
         .setMenuDefFontWeight(fontWeight)
         .setMenuActionSheetItems(sheetItems)
-        .setEnableBackground(true).setUniMPFromRecents(false).build()
+        .setEnableBackground(false).setUniMPFromRecents(false).build()
       DCUniMPSDK.getInstance().initialize(reactContext, config) { b -> promise.resolve(b) }
     } catch (e: Exception) {
       promise.reject(e)
